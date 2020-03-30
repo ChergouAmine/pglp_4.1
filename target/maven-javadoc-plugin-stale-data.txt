@@ -1,0 +1,59 @@
+/usr/lib/jvm/java-8-oracle/jre/../bin/javadoc
+@options
+@argfile
+-classpath
+'/home/user/.m2/repository/junit/junit/4.12/junit-4.12.jar:/home/user/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/user/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/user/Bureau/pglp_4.1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/user/Bureau/pglp_4.1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'4.1 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/user/Bureau/pglp_4.1/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'4.1 0.0.1-SNAPSHOT API'
+'/home/user/Bureau/pglp_4.1/src/main/java/Main.java'
+'/home/user/Bureau/pglp_4.1/src/main/java/CompositePersonnel.java'
+'/home/user/Bureau/pglp_4.1/src/main/java/Personnels.java'
+'/home/user/Bureau/pglp_4.1/src/main/java/Personnel.java'
+/home/user/.m2/repository/junit/junit/4.12/junit-4.12.jar = 1582710859000
+/home/user/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar = 1582710859000
+/home/user/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar = 1583316923000
+/home/user/Bureau/pglp_4.1/src/main/java/Main.java = 1585587040000
+/home/user/Bureau/pglp_4.1/src/main/java/CompositePersonnel.java = 1585585382000
+/home/user/Bureau/pglp_4.1/src/main/java/Personnels.java = 1585585018000
+/home/user/Bureau/pglp_4.1/src/main/java/Personnel.java = 1585585252000
+/home/user/Bureau/pglp_4.1/src/main/java = 1585587127000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/package-tree.html = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/Personnels.html = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/package-list = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/constant-values.html = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/allclasses-noframe.html = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/Main.html = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/Personnel.html = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/help-doc.html = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/CompositePersonnel.html = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/allclasses-frame.html = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/package-summary.html = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/overview-tree.html = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/Personnel.Builder.html = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/index.html = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/package-use.html = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/deprecated-list.html = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/package-frame.html = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/stylesheet.css = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/script.js = 1585587961000
+/home/user/Bureau/pglp_4.1/target/site/apidocs/index-all.html = 1585587961000
