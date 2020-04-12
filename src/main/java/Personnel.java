@@ -1,7 +1,3 @@
-import java.awt.List;
-import java.sql.Date;
-import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.util.ArrayList;
 
 
@@ -50,7 +46,7 @@ public class Personnel implements Personnels{
   }
   
   public void print() {
-      System.out.println(nom + " : ");
+      System.out.println("nom : "+nom+"\nprenom : "+prenom+"\nfonction : "+fonction+"\nnuméro : "+num_tel+"\n Date de Naissance : "+date_naissance);
   }
 
   public ArrayList<Personnels> getPersonnels() {
